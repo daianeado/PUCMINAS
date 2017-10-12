@@ -1,0 +1,12 @@
+c:\users\daiane\documents\visual studio 2012\Projects\lista4Atv6\lista4Atv6\bin\Debug\lista4Atv6.exe.config
+c:\users\daiane\documents\visual studio 2012\Projects\lista4Atv6\lista4Atv6\bin\Debug\lista4Atv6.exe
+c:\users\daiane\documents\visual studio 2012\Projects\lista4Atv6\lista4Atv6\bin\Debug\lista4Atv6.pdb
+c:\users\daiane\documents\visual studio 2012\Projects\lista4Atv6\lista4Atv6\obj\Debug\lista4Atv6.csprojResolveAssemblyReference.cache
+c:\users\daiane\documents\visual studio 2012\Projects\lista4Atv6\lista4Atv6\obj\Debug\lista4Atv6.exe
+c:\users\daiane\documents\visual studio 2012\Projects\lista4Atv6\lista4Atv6\obj\Debug\lista4Atv6.pdb
+C:\Users\Daiane\Documents\Visual Studio 2012\Projects\hipotenusa\lista4Atv6\bin\Debug\lista4Atv6.exe.config
+C:\Users\Daiane\Documents\Visual Studio 2012\Projects\hipotenusa\lista4Atv6\obj\Debug\lista4Atv6.exe
+C:\Users\Daiane\Documents\Visual Studio 2012\Projects\hipotenusa\lista4Atv6\obj\Debug\lista4Atv6.pdb
+C:\Users\Daiane\Documents\Visual Studio 2012\Projects\hipotenusa\lista4Atv6\bin\Debug\lista4Atv6.exe
+C:\Users\Daiane\Documents\Visual Studio 2012\Projects\hipotenusa\lista4Atv6\bin\Debug\lista4Atv6.pdb
+C:\Users\Daiane\Documents\Visual Studio 2012\Projects\hipotenusa\lista4Atv6\obj\Debug\lista4Atv6.csprojResolveAssemblyReference.cache

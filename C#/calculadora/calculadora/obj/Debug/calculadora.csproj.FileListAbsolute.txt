@@ -1,0 +1,6 @@
+c:\users\daiane\documents\visual studio 2012\Projects\calculadora\calculadora\bin\Debug\calculadora.exe.config
+c:\users\daiane\documents\visual studio 2012\Projects\calculadora\calculadora\bin\Debug\calculadora.exe
+c:\users\daiane\documents\visual studio 2012\Projects\calculadora\calculadora\bin\Debug\calculadora.pdb
+c:\users\daiane\documents\visual studio 2012\Projects\calculadora\calculadora\obj\Debug\calculadora.csprojResolveAssemblyReference.cache
+c:\users\daiane\documents\visual studio 2012\Projects\calculadora\calculadora\obj\Debug\calculadora.exe
+c:\users\daiane\documents\visual studio 2012\Projects\calculadora\calculadora\obj\Debug\calculadora.pdb

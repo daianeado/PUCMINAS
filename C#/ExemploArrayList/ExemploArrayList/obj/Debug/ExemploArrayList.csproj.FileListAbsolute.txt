@@ -1,0 +1,6 @@
+C:\Users\Daiane\Documents\Visual Studio 2012\Projects\ExemploArrayList\ExemploArrayList\bin\Debug\ExemploArrayList.exe.config
+C:\Users\Daiane\Documents\Visual Studio 2012\Projects\ExemploArrayList\ExemploArrayList\bin\Debug\ExemploArrayList.exe
+C:\Users\Daiane\Documents\Visual Studio 2012\Projects\ExemploArrayList\ExemploArrayList\bin\Debug\ExemploArrayList.pdb
+C:\Users\Daiane\Documents\Visual Studio 2012\Projects\ExemploArrayList\ExemploArrayList\obj\Debug\ExemploArrayList.csprojResolveAssemblyReference.cache
+C:\Users\Daiane\Documents\Visual Studio 2012\Projects\ExemploArrayList\ExemploArrayList\obj\Debug\ExemploArrayList.exe
+C:\Users\Daiane\Documents\Visual Studio 2012\Projects\ExemploArrayList\ExemploArrayList\obj\Debug\ExemploArrayList.pdb

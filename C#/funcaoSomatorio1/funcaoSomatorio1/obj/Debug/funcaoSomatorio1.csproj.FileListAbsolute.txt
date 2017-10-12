@@ -1,0 +1,1 @@
+c:\users\daiane\documents\visual studio 2012\Projects\funcaoSomatorio1\funcaoSomatorio1\bin\Debug\funcaoSomatorio1.exe.config

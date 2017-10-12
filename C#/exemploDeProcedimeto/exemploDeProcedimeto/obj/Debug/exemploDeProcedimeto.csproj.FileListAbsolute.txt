@@ -1,0 +1,6 @@
+c:\users\daiane\documents\visual studio 2012\Projects\exemploDeProcedimeto\exemploDeProcedimeto\bin\Debug\exemploDeProcedimeto.exe.config
+c:\users\daiane\documents\visual studio 2012\Projects\exemploDeProcedimeto\exemploDeProcedimeto\bin\Debug\exemploDeProcedimeto.exe
+c:\users\daiane\documents\visual studio 2012\Projects\exemploDeProcedimeto\exemploDeProcedimeto\bin\Debug\exemploDeProcedimeto.pdb
+c:\users\daiane\documents\visual studio 2012\Projects\exemploDeProcedimeto\exemploDeProcedimeto\obj\Debug\exemploDeProcedimeto.csprojResolveAssemblyReference.cache
+c:\users\daiane\documents\visual studio 2012\Projects\exemploDeProcedimeto\exemploDeProcedimeto\obj\Debug\exemploDeProcedimeto.exe
+c:\users\daiane\documents\visual studio 2012\Projects\exemploDeProcedimeto\exemploDeProcedimeto\obj\Debug\exemploDeProcedimeto.pdb

@@ -1,0 +1,12 @@
+c:\users\daiane\documents\visual studio 2012\Projects\lista4Atv10\lista4Atv10\bin\Debug\lista4Atv10.exe.config
+c:\users\daiane\documents\visual studio 2012\Projects\lista4Atv10\lista4Atv10\bin\Debug\lista4Atv10.exe
+c:\users\daiane\documents\visual studio 2012\Projects\lista4Atv10\lista4Atv10\bin\Debug\lista4Atv10.pdb
+c:\users\daiane\documents\visual studio 2012\Projects\lista4Atv10\lista4Atv10\obj\Debug\lista4Atv10.csprojResolveAssemblyReference.cache
+c:\users\daiane\documents\visual studio 2012\Projects\lista4Atv10\lista4Atv10\obj\Debug\lista4Atv10.exe
+c:\users\daiane\documents\visual studio 2012\Projects\lista4Atv10\lista4Atv10\obj\Debug\lista4Atv10.pdb
+C:\Users\Daiane\Documents\Visual Studio 2012\Projects\MaiorMenorMedia\lista4Atv10\bin\Debug\lista4Atv10.exe.config
+C:\Users\Daiane\Documents\Visual Studio 2012\Projects\MaiorMenorMedia\lista4Atv10\obj\Debug\lista4Atv10.exe
+C:\Users\Daiane\Documents\Visual Studio 2012\Projects\MaiorMenorMedia\lista4Atv10\obj\Debug\lista4Atv10.pdb
+C:\Users\Daiane\Documents\Visual Studio 2012\Projects\MaiorMenorMedia\lista4Atv10\bin\Debug\lista4Atv10.exe
+C:\Users\Daiane\Documents\Visual Studio 2012\Projects\MaiorMenorMedia\lista4Atv10\bin\Debug\lista4Atv10.pdb
+C:\Users\Daiane\Documents\Visual Studio 2012\Projects\MaiorMenorMedia\lista4Atv10\obj\Debug\lista4Atv10.csprojResolveAssemblyReference.cache

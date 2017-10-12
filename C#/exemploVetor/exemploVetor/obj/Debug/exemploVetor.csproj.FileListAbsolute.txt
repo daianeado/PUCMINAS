@@ -1,0 +1,5 @@
+c:\users\daiane\documents\visual studio 2012\Projects\exemploVetor\exemploVetor\bin\Debug\exemploVetor.exe.config
+c:\users\daiane\documents\visual studio 2012\Projects\exemploVetor\exemploVetor\bin\Debug\exemploVetor.exe
+c:\users\daiane\documents\visual studio 2012\Projects\exemploVetor\exemploVetor\bin\Debug\exemploVetor.pdb
+c:\users\daiane\documents\visual studio 2012\Projects\exemploVetor\exemploVetor\obj\Debug\exemploVetor.exe
+c:\users\daiane\documents\visual studio 2012\Projects\exemploVetor\exemploVetor\obj\Debug\exemploVetor.pdb

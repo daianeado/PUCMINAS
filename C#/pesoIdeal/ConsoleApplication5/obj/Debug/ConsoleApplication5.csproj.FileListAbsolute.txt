@@ -1,0 +1,9 @@
+c:\users\daiane\documents\visual studio 2012\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+c:\users\daiane\documents\visual studio 2012\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+c:\users\daiane\documents\visual studio 2012\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+c:\users\daiane\documents\visual studio 2012\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache
+c:\users\daiane\documents\visual studio 2012\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+c:\users\daiane\documents\visual studio 2012\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+C:\Users\Daiane\Documents\Visual Studio 2012\Projects\pesoIdeal\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\Daiane\Documents\Visual Studio 2012\Projects\pesoIdeal\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\Daiane\Documents\Visual Studio 2012\Projects\pesoIdeal\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb

@@ -1,0 +1,6 @@
+c:\users\daiane\documents\visual studio 2012\Projects\estudos\estudos\bin\Debug\estudos.exe.config
+c:\users\daiane\documents\visual studio 2012\Projects\estudos\estudos\bin\Debug\estudos.exe
+c:\users\daiane\documents\visual studio 2012\Projects\estudos\estudos\bin\Debug\estudos.pdb
+c:\users\daiane\documents\visual studio 2012\Projects\estudos\estudos\obj\Debug\estudos.csprojResolveAssemblyReference.cache
+c:\users\daiane\documents\visual studio 2012\Projects\estudos\estudos\obj\Debug\estudos.exe
+c:\users\daiane\documents\visual studio 2012\Projects\estudos\estudos\obj\Debug\estudos.pdb

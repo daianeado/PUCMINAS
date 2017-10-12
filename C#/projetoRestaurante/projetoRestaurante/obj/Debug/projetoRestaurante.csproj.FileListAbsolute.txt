@@ -1,0 +1,6 @@
+c:\users\daiane\documents\visual studio 2012\Projects\projetoRestaurante\projetoRestaurante\bin\Debug\projetoRestaurante.exe.config
+c:\users\daiane\documents\visual studio 2012\Projects\projetoRestaurante\projetoRestaurante\bin\Debug\projetoRestaurante.exe
+c:\users\daiane\documents\visual studio 2012\Projects\projetoRestaurante\projetoRestaurante\bin\Debug\projetoRestaurante.pdb
+c:\users\daiane\documents\visual studio 2012\Projects\projetoRestaurante\projetoRestaurante\obj\Debug\projetoRestaurante.csprojResolveAssemblyReference.cache
+c:\users\daiane\documents\visual studio 2012\Projects\projetoRestaurante\projetoRestaurante\obj\Debug\projetoRestaurante.exe
+c:\users\daiane\documents\visual studio 2012\Projects\projetoRestaurante\projetoRestaurante\obj\Debug\projetoRestaurante.pdb

@@ -1,0 +1,9 @@
+c:\users\daiane\documents\visual studio 2012\Projects\MatrizExemplo\MatrizExemplo\bin\Debug\MatrizExemplo.exe.config
+c:\users\daiane\documents\visual studio 2012\Projects\MatrizExemplo\MatrizExemplo\bin\Debug\MatrizExemplo.exe
+c:\users\daiane\documents\visual studio 2012\Projects\MatrizExemplo\MatrizExemplo\bin\Debug\MatrizExemplo.pdb
+c:\users\daiane\documents\visual studio 2012\Projects\MatrizExemplo\MatrizExemplo\obj\Debug\MatrizExemplo.csprojResolveAssemblyReference.cache
+c:\users\daiane\documents\visual studio 2012\Projects\MatrizExemplo\MatrizExemplo\obj\Debug\MatrizExemplo.exe
+c:\users\daiane\documents\visual studio 2012\Projects\MatrizExemplo\MatrizExemplo\obj\Debug\MatrizExemplo.pdb
+C:\Users\Daiane\Documents\Programas Importantes\Visual Studio 2012\Projects\MatrizExemplo\MatrizExemplo\bin\Debug\MatrizExemplo.exe.config
+C:\Users\Daiane\Documents\Programas Importantes\Visual Studio 2012\Projects\MatrizExemplo\MatrizExemplo\obj\Debug\MatrizExemplo.exe
+C:\Users\Daiane\Documents\Programas Importantes\Visual Studio 2012\Projects\MatrizExemplo\MatrizExemplo\obj\Debug\MatrizExemplo.pdb

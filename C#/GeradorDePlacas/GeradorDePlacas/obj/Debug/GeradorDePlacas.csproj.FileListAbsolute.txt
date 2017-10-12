@@ -1,0 +1,5 @@
+c:\users\daiane\documents\visual studio 2012\Projects\GeradorDePlacas\GeradorDePlacas\bin\Debug\GeradorDePlacas.exe.config
+c:\users\daiane\documents\visual studio 2012\Projects\GeradorDePlacas\GeradorDePlacas\bin\Debug\GeradorDePlacas.exe
+c:\users\daiane\documents\visual studio 2012\Projects\GeradorDePlacas\GeradorDePlacas\bin\Debug\GeradorDePlacas.pdb
+c:\users\daiane\documents\visual studio 2012\Projects\GeradorDePlacas\GeradorDePlacas\obj\Debug\GeradorDePlacas.exe
+c:\users\daiane\documents\visual studio 2012\Projects\GeradorDePlacas\GeradorDePlacas\obj\Debug\GeradorDePlacas.pdb

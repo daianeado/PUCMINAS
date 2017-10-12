@@ -1,0 +1,6 @@
+c:\users\daiane\documents\visual studio 2012\Projects\menuTrabalho\menuTrabalho\bin\Debug\menuTrabalho.exe.config
+c:\users\daiane\documents\visual studio 2012\Projects\menuTrabalho\menuTrabalho\bin\Debug\menuTrabalho.exe
+c:\users\daiane\documents\visual studio 2012\Projects\menuTrabalho\menuTrabalho\bin\Debug\menuTrabalho.pdb
+c:\users\daiane\documents\visual studio 2012\Projects\menuTrabalho\menuTrabalho\obj\Debug\menuTrabalho.exe
+c:\users\daiane\documents\visual studio 2012\Projects\menuTrabalho\menuTrabalho\obj\Debug\menuTrabalho.pdb
+c:\users\daiane\documents\visual studio 2012\Projects\menuTrabalho\menuTrabalho\obj\Debug\menuTrabalho.csprojResolveAssemblyReference.cache

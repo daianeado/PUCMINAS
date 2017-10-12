@@ -1,0 +1,6 @@
+c:\users\daiane\documents\visual studio 2012\Projects\BancoFUAQ\BancoFUAQ\bin\Debug\BancoFUAQ.exe.config
+c:\users\daiane\documents\visual studio 2012\Projects\BancoFUAQ\BancoFUAQ\bin\Debug\BancoFUAQ.exe
+c:\users\daiane\documents\visual studio 2012\Projects\BancoFUAQ\BancoFUAQ\bin\Debug\BancoFUAQ.pdb
+c:\users\daiane\documents\visual studio 2012\Projects\BancoFUAQ\BancoFUAQ\obj\Debug\BancoFUAQ.csprojResolveAssemblyReference.cache
+c:\users\daiane\documents\visual studio 2012\Projects\BancoFUAQ\BancoFUAQ\obj\Debug\BancoFUAQ.exe
+c:\users\daiane\documents\visual studio 2012\Projects\BancoFUAQ\BancoFUAQ\obj\Debug\BancoFUAQ.pdb

@@ -1,0 +1,5 @@
+C:\Users\Daiane\Documents\Visual Studio 2012\Projects\POOMatrizIrregular\POOMatrizIrregular\bin\Debug\POOMatrizIrregular.exe.config
+C:\Users\Daiane\Documents\Visual Studio 2012\Projects\POOMatrizIrregular\POOMatrizIrregular\bin\Debug\POOMatrizIrregular.exe
+C:\Users\Daiane\Documents\Visual Studio 2012\Projects\POOMatrizIrregular\POOMatrizIrregular\bin\Debug\POOMatrizIrregular.pdb
+C:\Users\Daiane\Documents\Visual Studio 2012\Projects\POOMatrizIrregular\POOMatrizIrregular\obj\Debug\POOMatrizIrregular.exe
+C:\Users\Daiane\Documents\Visual Studio 2012\Projects\POOMatrizIrregular\POOMatrizIrregular\obj\Debug\POOMatrizIrregular.pdb

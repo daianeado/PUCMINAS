@@ -1,0 +1,6 @@
+C:\Users\Daiane\Documents\Visual Studio 2012\Projects\Sudoku\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\Daiane\Documents\Visual Studio 2012\Projects\Sudoku\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\Daiane\Documents\Visual Studio 2012\Projects\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\Daiane\Documents\Visual Studio 2012\Projects\Sudoku\Sudoku\obj\Debug\Sudoku.csprojResolveAssemblyReference.cache
+C:\Users\Daiane\Documents\Visual Studio 2012\Projects\Sudoku\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\Daiane\Documents\Visual Studio 2012\Projects\Sudoku\Sudoku\obj\Debug\Sudoku.pdb

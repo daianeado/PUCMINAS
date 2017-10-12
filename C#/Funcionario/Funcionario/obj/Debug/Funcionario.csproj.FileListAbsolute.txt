@@ -1,0 +1,6 @@
+C:\Users\Daiane\Documents\Visual Studio 2012\Projects\Funcionario\Funcionario\bin\Debug\Funcionario.exe.config
+C:\Users\Daiane\Documents\Visual Studio 2012\Projects\Funcionario\Funcionario\obj\Debug\Funcionario.csprojResolveAssemblyReference.cache
+C:\Users\Daiane\Documents\Visual Studio 2012\Projects\Funcionario\Funcionario\bin\Debug\Funcionario.exe
+C:\Users\Daiane\Documents\Visual Studio 2012\Projects\Funcionario\Funcionario\bin\Debug\Funcionario.pdb
+C:\Users\Daiane\Documents\Visual Studio 2012\Projects\Funcionario\Funcionario\obj\Debug\Funcionario.exe
+C:\Users\Daiane\Documents\Visual Studio 2012\Projects\Funcionario\Funcionario\obj\Debug\Funcionario.pdb

@@ -1,0 +1,5 @@
+C:\Users\Daiane\Documents\Visual Studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\Daiane\Documents\Visual Studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\Daiane\Documents\Visual Studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\Daiane\Documents\Visual Studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\Daiane\Documents\Visual Studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

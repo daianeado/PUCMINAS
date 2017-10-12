@@ -1,0 +1,6 @@
+c:\users\daiane\documents\visual studio 2012\Projects\MatrizPreenche\MatrizPreenche\bin\Debug\MatrizPreenche.exe.config
+c:\users\daiane\documents\visual studio 2012\Projects\MatrizPreenche\MatrizPreenche\bin\Debug\MatrizPreenche.exe
+c:\users\daiane\documents\visual studio 2012\Projects\MatrizPreenche\MatrizPreenche\bin\Debug\MatrizPreenche.pdb
+c:\users\daiane\documents\visual studio 2012\Projects\MatrizPreenche\MatrizPreenche\obj\Debug\MatrizPreenche.exe
+c:\users\daiane\documents\visual studio 2012\Projects\MatrizPreenche\MatrizPreenche\obj\Debug\MatrizPreenche.pdb
+C:\Users\Daiane\documents\visual studio 2012\Projects\MatrizPreenche\MatrizPreenche\obj\Debug\MatrizPreenche.csprojResolveAssemblyReference.cache

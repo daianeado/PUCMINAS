@@ -1,0 +1,6 @@
+c:\users\daiane\documents\visual studio 2012\Projects\funcaoMercadorias\funcaoMercadorias\bin\Debug\funcaoMercadorias.exe.config
+c:\users\daiane\documents\visual studio 2012\Projects\funcaoMercadorias\funcaoMercadorias\obj\Debug\funcaoMercadorias.csprojResolveAssemblyReference.cache
+c:\users\daiane\documents\visual studio 2012\Projects\funcaoMercadorias\funcaoMercadorias\bin\Debug\funcaoMercadorias.exe
+c:\users\daiane\documents\visual studio 2012\Projects\funcaoMercadorias\funcaoMercadorias\bin\Debug\funcaoMercadorias.pdb
+c:\users\daiane\documents\visual studio 2012\Projects\funcaoMercadorias\funcaoMercadorias\obj\Debug\funcaoMercadorias.exe
+c:\users\daiane\documents\visual studio 2012\Projects\funcaoMercadorias\funcaoMercadorias\obj\Debug\funcaoMercadorias.pdb

@@ -1,0 +1,6 @@
+c:\users\daiane\documents\visual studio 2012\Projects\funcaoCpn\funcaoCpn\bin\Debug\funcaoCpn.exe.config
+c:\users\daiane\documents\visual studio 2012\Projects\funcaoCpn\funcaoCpn\obj\Debug\funcaoCpn.csprojResolveAssemblyReference.cache
+c:\users\daiane\documents\visual studio 2012\Projects\funcaoCpn\funcaoCpn\bin\Debug\funcaoCpn.exe
+c:\users\daiane\documents\visual studio 2012\Projects\funcaoCpn\funcaoCpn\bin\Debug\funcaoCpn.pdb
+c:\users\daiane\documents\visual studio 2012\Projects\funcaoCpn\funcaoCpn\obj\Debug\funcaoCpn.exe
+c:\users\daiane\documents\visual studio 2012\Projects\funcaoCpn\funcaoCpn\obj\Debug\funcaoCpn.pdb

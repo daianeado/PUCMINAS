@@ -1,0 +1,5 @@
+c:\users\daiane\documents\visual studio 2012\Projects\lista3Atv16\lista3Atv16\bin\Debug\lista3Atv16.exe.config
+c:\users\daiane\documents\visual studio 2012\Projects\lista3Atv16\lista3Atv16\bin\Debug\lista3Atv16.exe
+c:\users\daiane\documents\visual studio 2012\Projects\lista3Atv16\lista3Atv16\bin\Debug\lista3Atv16.pdb
+c:\users\daiane\documents\visual studio 2012\Projects\lista3Atv16\lista3Atv16\obj\Debug\lista3Atv16.exe
+c:\users\daiane\documents\visual studio 2012\Projects\lista3Atv16\lista3Atv16\obj\Debug\lista3Atv16.pdb

@@ -1,0 +1,2 @@
+C:\Users\Daiane\Documents\Visual Studio 2012\Projects\ProvaSubstitutivaDaianeOliveira\ProvaSubstitutivaDaianeOliveira\bin\Debug\ProvaSubstitutivaDaianeOliveira.exe.config
+C:\Users\Daiane\Documents\Visual Studio 2012\Projects\ProvaSubstitutivaDaianeOliveira\ProvaSubstitutivaDaianeOliveira\obj\Debug\ProvaSubstitutivaDaianeOliveira.csprojResolveAssemblyReference.cache

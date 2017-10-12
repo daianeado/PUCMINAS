@@ -1,0 +1,5 @@
+c:\users\daiane\documents\visual studio 2012\Projects\funcaoPrimo\funcaoPrimo\bin\Debug\funcaoPrimo.exe.config
+c:\users\daiane\documents\visual studio 2012\Projects\funcaoPrimo\funcaoPrimo\bin\Debug\funcaoPrimo.exe
+c:\users\daiane\documents\visual studio 2012\Projects\funcaoPrimo\funcaoPrimo\bin\Debug\funcaoPrimo.pdb
+c:\users\daiane\documents\visual studio 2012\Projects\funcaoPrimo\funcaoPrimo\obj\Debug\funcaoPrimo.exe
+c:\users\daiane\documents\visual studio 2012\Projects\funcaoPrimo\funcaoPrimo\obj\Debug\funcaoPrimo.pdb

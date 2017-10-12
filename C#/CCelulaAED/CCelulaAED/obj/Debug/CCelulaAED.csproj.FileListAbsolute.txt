@@ -1,0 +1,6 @@
+c:\users\daiane\documents\visual studio 2012\Projects\CCelulaAED\CCelulaAED\bin\Debug\CCelulaAED.exe.config
+C:\Users\Daiane\Documents\Visual Studio 2012\Projects\CCelulaAED\CCelulaAED\bin\Debug\CCelulaAED.exe
+C:\Users\Daiane\Documents\Visual Studio 2012\Projects\CCelulaAED\CCelulaAED\bin\Debug\CCelulaAED.pdb
+C:\Users\Daiane\Documents\Visual Studio 2012\Projects\CCelulaAED\CCelulaAED\obj\Debug\CCelulaAED.csprojResolveAssemblyReference.cache
+C:\Users\Daiane\Documents\Visual Studio 2012\Projects\CCelulaAED\CCelulaAED\obj\Debug\CCelulaAED.exe
+C:\Users\Daiane\Documents\Visual Studio 2012\Projects\CCelulaAED\CCelulaAED\obj\Debug\CCelulaAED.pdb

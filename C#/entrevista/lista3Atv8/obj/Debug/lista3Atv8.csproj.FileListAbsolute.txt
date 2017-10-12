@@ -1,0 +1,6 @@
+c:\users\daiane\documents\visual studio 2012\Projects\lista3Atv8\lista3Atv8\bin\Debug\lista3Atv8.exe.config
+c:\users\daiane\documents\visual studio 2012\Projects\lista3Atv8\lista3Atv8\bin\Debug\lista3Atv8.exe
+c:\users\daiane\documents\visual studio 2012\Projects\lista3Atv8\lista3Atv8\bin\Debug\lista3Atv8.pdb
+c:\users\daiane\documents\visual studio 2012\Projects\lista3Atv8\lista3Atv8\obj\Debug\lista3Atv8.csprojResolveAssemblyReference.cache
+c:\users\daiane\documents\visual studio 2012\Projects\lista3Atv8\lista3Atv8\obj\Debug\lista3Atv8.exe
+c:\users\daiane\documents\visual studio 2012\Projects\lista3Atv8\lista3Atv8\obj\Debug\lista3Atv8.pdb

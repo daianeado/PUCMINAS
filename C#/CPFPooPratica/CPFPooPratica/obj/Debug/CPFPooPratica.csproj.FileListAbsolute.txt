@@ -1,0 +1,6 @@
+c:\users\daiane\documents\visual studio 2012\Projects\CPFPooPratica\CPFPooPratica\bin\Debug\CPFPooPratica.exe.config
+c:\users\daiane\documents\visual studio 2012\Projects\CPFPooPratica\CPFPooPratica\bin\Debug\CPFPooPratica.exe
+c:\users\daiane\documents\visual studio 2012\Projects\CPFPooPratica\CPFPooPratica\bin\Debug\CPFPooPratica.pdb
+c:\users\daiane\documents\visual studio 2012\Projects\CPFPooPratica\CPFPooPratica\obj\Debug\CPFPooPratica.csprojResolveAssemblyReference.cache
+c:\users\daiane\documents\visual studio 2012\Projects\CPFPooPratica\CPFPooPratica\obj\Debug\CPFPooPratica.exe
+c:\users\daiane\documents\visual studio 2012\Projects\CPFPooPratica\CPFPooPratica\obj\Debug\CPFPooPratica.pdb

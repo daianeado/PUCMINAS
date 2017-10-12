@@ -1,0 +1,6 @@
+c:\users\daiane\documents\visual studio 2012\Projects\contaBancaria\contaBancaria\bin\Debug\contaBancaria.exe.config
+c:\users\daiane\documents\visual studio 2012\Projects\contaBancaria\contaBancaria\bin\Debug\contaBancaria.exe
+c:\users\daiane\documents\visual studio 2012\Projects\contaBancaria\contaBancaria\bin\Debug\contaBancaria.pdb
+c:\users\daiane\documents\visual studio 2012\Projects\contaBancaria\contaBancaria\obj\Debug\contaBancaria.csprojResolveAssemblyReference.cache
+c:\users\daiane\documents\visual studio 2012\Projects\contaBancaria\contaBancaria\obj\Debug\contaBancaria.exe
+c:\users\daiane\documents\visual studio 2012\Projects\contaBancaria\contaBancaria\obj\Debug\contaBancaria.pdb
